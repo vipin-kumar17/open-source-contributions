@@ -18,3 +18,9 @@
 - Repository: aden-hive/hive
 - status: open
 - link: https://github.com/aden-hive/hive/pull/7238
+
+- ## Kaola-Workflow
+- PR #265 Updated all major scripts to respect ACTIVE_WORKTREE_PATH
+- Repository: KaolaBrother/Kaola-Workflow
+- status: open
+- link: https://github.com/KaolaBrother/Kaola-Workflow/pull/265

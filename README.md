@@ -24,3 +24,9 @@
 - Repository: KaolaBrother/Kaola-Workflow
 - status: open
 - link: https://github.com/KaolaBrother/Kaola-Workflow/pull/265
+
+- ## alfred-homebrew
+- PR Fixes the Homebrew cache layout issue reported in #21.
+- Repository: chrisgrieser/alfred-homebrew
+- status: open
+- link: https://github.com/chrisgrieser/alfred-homebrew/pull/22

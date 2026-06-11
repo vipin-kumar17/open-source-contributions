@@ -30,3 +30,9 @@
 - Repository: chrisgrieser/alfred-homebrew
 - status: open
 - link: https://github.com/chrisgrieser/alfred-homebrew/pull/22
+
+- ## tian-os-app
+- PR This PR aligns feature flag defaults between backend and frontend to prevent inconsistent behavior #132.
+- Repository: TianJunEG/tian-os-app
+- status: open
+- link: https://github.com/TianJunEG/tian-os-app/pull/132

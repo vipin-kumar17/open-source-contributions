@@ -36,3 +36,9 @@
 - Repository: TianJunEG/tian-os-app
 - status: open
 - link: https://github.com/TianJunEG/tian-os-app/pull/132
+
+- ## agri
+- PR This change prevents duplicate Content-Security-Policy headers from being added by CSPMiddleware #2691.
+- Repository: Eshajha19/agri
+- status: open
+- link: https://github.com/Eshajha19/agri/pull/2691

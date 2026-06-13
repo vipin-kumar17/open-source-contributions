@@ -42,3 +42,9 @@
 - Repository: Eshajha19/agri
 - status: open
 - link: https://github.com/Eshajha19/agri/pull/2691
+
+- ## product-store
+- PR This PR fixes the issue where the cart displayed outdated product prices stored in the localStorage snapshot #195.
+- Repository: niharika-mente/Product-Store
+- status: open
+- link: https://github.com/niharika-mente/Product-Store/pull/195

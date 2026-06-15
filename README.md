@@ -48,3 +48,9 @@
 - Repository: niharika-mente/Product-Store
 - status: open
 - link: https://github.com/niharika-mente/Product-Store/pull/195
+
+- ## sap-adt-mcp
+- PR This change improves validation and error reporting around unsupported request formats #19.
+- Repository: yzonur/sap-adt-mcp
+- status: open
+- link: https://github.com/yzonur/sap-adt-mcp/pull/19

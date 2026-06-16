@@ -54,3 +54,9 @@
 - Repository: yzonur/sap-adt-mcp
 - status: open
 - link: https://github.com/yzonur/sap-adt-mcp/pull/19
+
+- ## TerraMortis
+- PR This PR updates the Domain Merits renderer to improve ordering and Necropolis merit presentation #824.
+- Repository: angelusvmorningstar/TerraMortis
+- status: open
+- link: https://github.com/angelusvmorningstar/TerraMortis/pull/824

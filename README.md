@@ -28,25 +28,25 @@
 - ## alfred-homebrew
 - PR Fixes the Homebrew cache layout issue reported in #21.
 - Repository: chrisgrieser/alfred-homebrew
-- status: open
+- status: merged
 - link: https://github.com/chrisgrieser/alfred-homebrew/pull/22
 
 - ## tian-os-app
 - PR This PR aligns feature flag defaults between backend and frontend to prevent inconsistent behavior #132.
 - Repository: TianJunEG/tian-os-app
-- status: open
+- status: merged
 - link: https://github.com/TianJunEG/tian-os-app/pull/132
 
 - ## agri
 - PR This change prevents duplicate Content-Security-Policy headers from being added by CSPMiddleware #2691.
 - Repository: Eshajha19/agri
-- status: open
+- status: merged
 - link: https://github.com/Eshajha19/agri/pull/2691
 
 - ## product-store
 - PR This PR fixes the issue where the cart displayed outdated product prices stored in the localStorage snapshot #195.
 - Repository: niharika-mente/Product-Store
-- status: open
+- status: merged
 - link: https://github.com/niharika-mente/Product-Store/pull/195
 
 - ## sap-adt-mcp
